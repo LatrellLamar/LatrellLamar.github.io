@@ -8,4 +8,8 @@
 ## ------------------------------------------------------------------------------------------------------
 [Homeless shelters near you](https://www.google.com](https://www.google.com/search?q=homeless+shelters+near+me&rlz=1C1RXMK_enUS970US970&tbm=lcl&ei=_imiYuzjL9-RuvQP2OG02Ak&oq=Homelessnear+me&gs_l=psy-ab.1.0.0i30i7k1j0i13k1j0i30i7k1l8.160434.164214.0.165772.10.10.0.0.0.0.234.1228.1j7j1.9.0....0...1c.1.64.psy-ab..1.9.1225...0i273k1j0i433i67k1j0i67k1.0.4-5Q5uzXJQs&safe=active&ssui=on#rlfi=hd:;si:;mv:[[42.460320198283746,-82.66916245394997],[42.17243681930395,-83.43545884066872],null,[42.31654312767508,-83.05231064730934],11)
 ## ------------------------------------------------------------------------------------------------------
-[People to talk to for Housing help](https://www.michigan.gov/mshda/rental/cera
+[People to talk to for Housing help](https://www.michigan.gov/mshda/rental/cera)
+URLs and URLs in angle brackets will automatically get turned into links. 
+http://www.example.com or <http://www.example.com> and sometimes 
+example.com (but not on Github, for example).
+ 
